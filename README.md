@@ -14,4 +14,4 @@ Example detailing how to select an image from the gallery and display it in an I
 <img src="Gallery.png" width="500" width="300"/>
 <br/>
 
-<img src="MainActivity_AfterSelection" width="500" width="300"/>
+<img src="MainActivity_AfterSelection.png" width="500" width="300"/>
